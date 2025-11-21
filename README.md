@@ -106,7 +106,7 @@ Outputs will be saved inside the data folder as final_output.csv.
 
 ## 📹 Demo Video 
 
-`https://your-video-demo-link-here.com`
+`https://youtu.be/coAuH0eMKwE`
 
 ------------------------------------------------------------------------
 
@@ -114,23 +114,23 @@ Outputs will be saved inside the data folder as final_output.csv.
 
 ### 🟦 NewsAPI
 
--   Fast, reliable news aggregator\
+-   Fast, reliable news aggregator
 -   Free tier supports this task
 
 ### 🟩 GPT Mini (OpenAI)
 
--   High-quality structured extraction\
+-   High-quality structured extraction
 -   Faster + lower cost
 
 ### 🟧 Ollama + Llama3
 
--   Local fallback (no token usage)\
+-   Local fallback (no token usage)
 -   Ensures reliability even without API
 
 ### 🟨 Python + Requests + Logging
 
--   Lightweight\
--   Easy to maintain\
+-   Lightweight
+-   Easy to maintain
 -   Industry standard and PEP8-compliant
 
 ------------------------------------------------------------------------
