@@ -1,0 +1,14 @@
+import os
+
+
+NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OLLAMA_HOST = os.getenv("OLLAMA_HOST")
+GOOGLE_SA_JSON = os.getenv("GOOGLE_SA_JSON")
+GOOGLE_SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
+
+
+# Tunable constants
+SIMILARITY_THRESHOLD = 0.78
+MAX_SUMMARY_CHARS = 600
+HYPE_THRESHOLD = 0.35

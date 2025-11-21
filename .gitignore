@@ -1,0 +1,56 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config / secrets
+.env
+*.env
+config.json
+secrets.json
+
+# Logs
+logs/
+*.log
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output, temporary, generated files
+output/
+data/*.csv
+data/*.json
+*.sqlite3
+*.db
+
+# Model Directories (optional)
+models/
+checkpoints/
+
+# Large temporary files
+tmp/
+temp/
+
+# Local testing files
+test_output/
+test_data/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+dist/
+build/

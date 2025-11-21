@@ -1,0 +1,10 @@
+requests
+pandas
+python-dotenv
+openai
+rapidfuzz
+feedparser
+gspread
+oauth2client
+pytest
+tqdm
