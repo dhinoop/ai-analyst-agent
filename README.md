@@ -106,7 +106,7 @@ Outputs will be saved inside the data folder as final_output.csv.
 
 ## 📹 Demo Video 
 
-`https://www.youtube.com/watch?v=coAuH0eMKwE`
+https://www.youtube.com/watch?v=coAuH0eMKwE
 
 ------------------------------------------------------------------------
 
